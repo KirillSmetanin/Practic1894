@@ -1,0 +1,16 @@
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\bin\Debug\Н_Калькулятр.exe.config
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\bin\Debug\Н_Калькулятр.exe
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\bin\Debug\Н_Калькулятр.pdb
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\Н_Калькулятр.csproj.AssemblyReference.cache
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\Н_Калькулятр.csproj.SuggestedBindingRedirects.cache
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\MainWindow.g.cs
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\App.g.cs
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\Н_Калькулятр_MarkupCompile.cache
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\Н_Калькулятр_MarkupCompile.lref
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\MainWindow.baml
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\Н_Калькулятр.g.resources
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\Н_Калькулятр.Properties.Resources.resources
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\Н_Калькулятр.csproj.GenerateResource.cache
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\Н_Калькулятр.csproj.CoreCompileInputs.cache
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\Н_Калькулятр.exe
+C:\Users\and99\source\repos\Н_Калькулятр\Н_Калькулятр\obj\Debug\Н_Калькулятр.pdb

@@ -1,0 +1,16 @@
+C:\Users\and99\source\repos\Задание_2\Задание_2\bin\Debug\Задание_2.exe.config
+C:\Users\and99\source\repos\Задание_2\Задание_2\bin\Debug\Задание_2.exe
+C:\Users\and99\source\repos\Задание_2\Задание_2\bin\Debug\Задание_2.pdb
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\Задание_2.csproj.AssemblyReference.cache
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\Задание_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\MainWindow.g.cs
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\App.g.cs
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\Задание_2_MarkupCompile.cache
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\Задание_2_MarkupCompile.lref
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\MainWindow.baml
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\Задание_2.g.resources
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\Задание_2.Properties.Resources.resources
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\Задание_2.csproj.GenerateResource.cache
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\Задание_2.csproj.CoreCompileInputs.cache
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\Задание_2.exe
+C:\Users\and99\source\repos\Задание_2\Задание_2\obj\Debug\Задание_2.pdb
